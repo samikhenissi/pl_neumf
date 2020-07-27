@@ -1,0 +1,11 @@
+{"alias": "GMF",
+  "num_epoch": 20,
+  "batch_size": 1024,
+  "optimizer": "adam",
+  "adam_lr": 1e-3,
+  "latent_dim": 16,
+  "l2_regularization": 0,
+  "topk": 10,
+  "augment_neg_number" : 4}
+
+
