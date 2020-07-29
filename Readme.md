@@ -8,7 +8,11 @@ Many of the components of this implementation (such as the model architectures, 
 
 
 ## Requirements and installation
-Clone this repo to your local machine using https://github.com/samikhenissi/pl_neumf.git
+Clone this repo to your local machine using 
+```bash
+git clone https://github.com/samikhenissi/pl_neumf.git
+```
+
 
 We used pytorch 1.5.1 and pytorch-lightning==0.8.5
 
