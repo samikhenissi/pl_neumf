@@ -3,7 +3,7 @@
 This is an implementation of the paper [Neural Collaborative Filtering
 ](https://dl.acm.org/doi/10.1145/3038912.3052569). There are many implementation for the same paper. What is new in this one is using Pytorch lighning which allows scalability and cleaner code. Furthermore, we added the option to use BPR loss for both models. This allows users who wish to compare with these model to try different training settings.
 
-Many of the components of this implementation (such as the model architectures, metric scripts) are taken from the following pytorch [implementation](https://github.com/yihong-chen/neural-collaborative-filtering) fore the same paper:
+Many of the components of this implementation (such as the model architectures, metric scripts) are taken from the following pytorch [implementation](https://github.com/yihong-chen/neural-collaborative-filtering) fore the same paper: 
 
 
 
